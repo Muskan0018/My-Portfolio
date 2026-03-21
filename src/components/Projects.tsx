@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { Github, ExternalLink, Code, Layout, Database } from 'lucide-react';
 import { li } from 'motion/react-client';
+import { link } from 'fs';
 
 const projects = [
   {
@@ -11,6 +12,7 @@ const projects = [
     date: "July 2025 - Currently",
     icon: <Database className="text-emerald-500" />,
     github: "https://github.com/Muskan0018/Pre-Hire-Check",
+    link: "https://github.com/Muskan0018/Pre-Hire-Check",
     bullets: [
       "Built an AI-powered website to detect risks and unprofessional posts in public content.",
       "Developed using Java Spring Boot and React.js for seamless full-stack performance.",
@@ -53,6 +55,7 @@ const projects = [
     date: "Completed",
     icon: <Code className="text-emerald-500" />,
     github: "https://github.com/Muskan0018",
+    link: "https://github.com/Muskan0018",
     bullets: [
       "Designed a pixel-perfect static replica of the Amazon homepage.",
       "Used modern layout techniques including Flexbox and Grid for responsiveness.",
