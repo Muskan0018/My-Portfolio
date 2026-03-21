@@ -27,7 +27,7 @@ const projects = [
     date: "Completed",
     icon: <Layout className="text-emerald-500" />,
     github: "https://github.com/Muskan0018/My-Portfolio",
-    link: "https://muskan0018.github.io/My-Portfolio/",
+    link: "https://Muskan0018.github.io/My-Portfolio/",
     bullets: [
       "Designed and developed a personal portfolio website using React.js and Tailwind CSS.",
       "Showcased projects, skills, and contact information in a clean and responsive layout.",
