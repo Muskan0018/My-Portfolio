@@ -16,42 +16,42 @@ const certifications = [
     title: "TCS iON Career Edge",
     issuer: "Tata Consultancy Services",
     date: "2026",
-    image: cert1,
+    image: cert8,
     // link: "#"
   },
   {
     title: "Introduction to Generative AI",
     issuer: "Google Cloud / Simplilearn",
     date: "2025",
-    image: cert2,
+    image: cert6,
     // link: "#"
   },
   {
     title: "Java Skill Up",
     issuer: "GeeksforGeeks",
     date: "2025",
-    image: cert3,
+    image: cert7,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "JavaScript Full Course",
     issuer: "GeeksforGeeks",
     date: "2024",
-    image: cert4,
+    image: cert3,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "CSS (Basic)",
     issuer: "HackerRank",
     date: "2025",
-    image: cert5,
+    image: cert4,
     // link: "https://hackerrank.com/profile/muskanmishra0607"
   },  
   {
     title: "HTML Tutorial",
     issuer: "Great Learning",
     date: "2024",
-    image: cert6,
+    image: cert5,
     // link: "#"
   },
   
@@ -59,7 +59,7 @@ const certifications = [
     title: "C++ Training Course",
     issuer: "Udemy",
     date: "2024",
-    image: cert7,
+    image: cert2,
     // link: "#"
   },
   {
