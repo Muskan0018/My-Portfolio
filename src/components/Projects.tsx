@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Github, ExternalLink, Code, Layout, Database } from 'lucide-react';
+import { li } from 'motion/react-client';
 
 const projects = [
   {
@@ -18,12 +19,27 @@ const projects = [
     ]
   },
   {
+    title: "Personal Portfolio",
+    description: "A responsive personal portfolio website showcasing projects, skills, and contact information.",
+    tech: ["React.js", "TypeScript", "Tailwind CSS"],
+    date: "Completed",
+    icon: <Layout className="text-emerald-500" />,
+    github: "https://github.com/Muskan0018/My-Portfolio",
+    link: "https://muskan0018.github.io/My-Portfolio/",
+    bullets: [
+      "Designed and developed a personal portfolio website using React.js and Tailwind CSS.",
+      "Showcased projects, skills, and contact information in a clean and responsive layout.",
+      "Implemented smooth animations and transitions for an engaging user experience."
+    ]
+  },
+  {
     title: "Google Login Clone",
     description: "Front-end clone of Google's login page demonstrating skills in UI replication and form styling.",
     tech: ["HTML", "CSS"],
     date: "Completed",
     icon: <Layout className="text-emerald-500" />,
     github: "https://github.com/Muskan0018/Google-Login-Page-Clone",
+    link: "https://muskan0018.github.io/Google-Login-Page-Clone/",
     bullets: [
       "Replicated Google's iconic login interface using pure HTML and CSS.",
       "Focused on box modeling, form styling, and clean code structure.",
@@ -50,6 +66,7 @@ const projects = [
     date: "Completed",
     icon: <Layout className="text-emerald-500" />,
     github: "https://github.com/Muskan0018/Cafe-Landing-Page",
+    link: "https://muskan0018.github.io/Cafe-Landing-Page/",
     bullets: [
       "Built a responsive Cafe Landing Page using pure HTML & CSS.",
       "Designed clean UI with custom typography, colors, and layout sections.",
