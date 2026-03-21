@@ -2,56 +2,56 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Award, ExternalLink, CheckCircle2, X, ZoomIn } from 'lucide-react';
 
-import cert1 from '../assets/C++Udemy-certificate_page-.jpg';
-import cert2 from '../assets/Coursera-introduction-of-Excel.jpeg';
-import cert3 from '../assets/GFG-Js-Certificate.jpg';
-import cert4 from '../assets/hackerrank_css_basic.jpg';
-import cert5 from '../assets/HTML-GreatLearning.jpeg';
-import cert6 from '../assets/Introduction-to-GenerativeAI.jpg';
-import cert7 from '../assets/Java-Skill-upgfg.jpg';
-import cert8 from '../assets/tcs-ion.jpg';
+import cert1 from '../assets/tcs-ion.jpg';
+import cert2 from '../assets/Introduction-to-GenerativeAI.jpg';
+import cert3 from '../assets/Java-Skill-upgfg.jpg';
+import cert4 from '../assets/GFG-Js-Certificate.jpg';
+import cert5 from '../assets/hackerrank_css_basic.jpg';
+import cert6 from '../assets/HTML-GreatLearning.jpeg';
+import cert7 from '../assets/C++Udemy-certificate_page-.jpg';
+import cert8 from '../assets/Coursera-introduction-of-Excel.jpeg';
 
 const certifications = [
   {
     title: "TCS iON Career Edge",
     issuer: "Tata Consultancy Services",
     date: "2026",
-    image: cert8,
+    image: cert1,
     // link: "#"
   },
   {
     title: "Introduction to Generative AI",
     issuer: "Google Cloud / Simplilearn",
     date: "2025",
-    image: cert6,
+    image: cert2,
     // link: "#"
   },
   {
     title: "Java Skill Up",
     issuer: "GeeksforGeeks",
     date: "2025",
-    image: cert7,
+    image: cert3,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "JavaScript Full Course",
     issuer: "GeeksforGeeks",
     date: "2024",
-    image: cert3,
+    image: cert4,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "CSS (Basic)",
     issuer: "HackerRank",
     date: "2025",
-    image: cert4,
+    image: cert5,
     // link: "https://hackerrank.com/profile/muskanmishra0607"
   },  
   {
     title: "HTML Tutorial",
     issuer: "Great Learning",
     date: "2024",
-    image: cert5,
+    image: cert6,
     // link: "#"
   },
   
@@ -59,7 +59,7 @@ const certifications = [
     title: "C++ Training Course",
     issuer: "Udemy",
     date: "2024",
-    image: cert2,
+    image: cert7,
     // link: "#"
   },
   {
