@@ -44,10 +44,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume }) => {
             <Mail size={16} className="text-emerald-500" />
             muskanmishra1806@gmail.com
           </div>
-          {/* <div className="flex items-center gap-2">
-            <span className="text-emerald-500 font-bold">PH:</span>
-            +91 8960901343
-          </div> */}
+         
         </div>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
