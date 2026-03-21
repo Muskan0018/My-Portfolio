@@ -144,7 +144,9 @@ export const Projects: React.FC = () => {
                   Code
                 </a>
                 <a 
-                  href="#" 
+                  href={project.link} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
                   className="flex items-center gap-2 text-slate-300 hover:text-emerald-500 transition-colors text-sm font-medium"
                 >
                   <ExternalLink size={18} />
