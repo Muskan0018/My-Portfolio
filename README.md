@@ -1,20 +1,110 @@
-<!-- <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Muskan Mishra Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio website!
+This project showcases my skills, projects, and experience as a developer.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/08ab64b3-3c52-4f0b-ae60-e69b15b0f4ee
+## 🚀 Live Demo
 
-## Run Locally -->
+👉 https://Muskan0018.github.io/My-Portfolio/
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* ⚛️ React
+* ⚡ Vite
+* 🎨 Tailwind CSS
+* 🟦 TypeScript
+
+---
+
+## ✨ Features
+
+* 🎯 Clean and modern UI
+* 📱 Fully responsive design
+* 🚀 Fast performance with Vite
+* 💼 Projects showcase section
+* 📄 Resume view/download option
+* 🎨 Smooth animations
+
+---
+
+## 📂 Project Structure
+
+```
+├── src/
+    ├── assets/
+│   ├── components/
+│   ├── App.tsx
+│   └── main.tsx
+├── public/
+├── index.html
+└── package.json
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/Muskan0018/My-Portfolio.git
+```
+
+Navigate to project folder:
+
+```
+cd My-Portfolio
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run development server:
+
+```
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```
+npm run build
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+To deploy manually:
+
+```
+npm run deploy
+```
+
+---
+
+## 📬 Contact Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/muskanmishra07/
+* 📧 Email: muskanmishra1806@gmail.com
+* 🐙 GitHub: https://github.com/Muskan0018
+
+---
+
+## ⭐ Acknowledgements
+
+Thanks for visiting my portfolio!
+If you like it, feel free to ⭐ the repository.
+
+---
