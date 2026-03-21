@@ -2,6 +2,14 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Award, ExternalLink, CheckCircle2, X, ZoomIn } from 'lucide-react';
 
+import cert1 from '../assets/C++Udemy-certificate_page-.jpg';
+import cert2 from '../assets/Coursera-introduction-of-Excel.jpeg';
+import cert3 from '../assets/GFG-Js-Certificate.jpg';
+import cert4 from '../assets/hackerrank_css_basic.jpg';
+import cert5 from '../assets/HTML-_GreatLearning.jpeg';
+import cert6 from '../assets/Introduction-to-GenerativeAI.jpg';
+import cert7 from '../assets/Java-Skill-upgfg.jpg';
+import cert8 from '../assets/tcs-ion.jpg';
 
 const certifications = [
   {
