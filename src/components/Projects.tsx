@@ -23,7 +23,7 @@ const projects = [
     tech: ["HTML", "CSS"],
     date: "Completed",
     icon: <Layout className="text-emerald-500" />,
-    github: "https://muskan0018.github.io/Google-Login-Page-Clone/",
+    github: "https://github.com/Muskan0018/Google-Login-Page-Clone",
     bullets: [
       "Replicated Google's iconic login interface using pure HTML and CSS.",
       "Focused on box modeling, form styling, and clean code structure.",
@@ -49,7 +49,7 @@ const projects = [
     tech: ["HTML", "CSS"],
     date: "Completed",
     icon: <Layout className="text-emerald-500" />,
-    github: "https://muskan0018.github.io/Cafe-Landing-Page/",
+    github: "https://github.com/Muskan0018/Cafe-Landing-Page",
     bullets: [
       "Built a responsive Cafe Landing Page using pure HTML & CSS.",
       "Designed clean UI with custom typography, colors, and layout sections.",
