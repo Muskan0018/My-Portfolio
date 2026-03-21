@@ -61,9 +61,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenResume }) => {
           <div className="text-slate-500 text-sm font-medium tracking-tighter">
             MUSKAN MISHRA <span className="text-emerald-500">© 2026</span>
           </div>
-          // <div className="text-slate-600 text-[10px] uppercase tracking-[0.3em]">
-          //   Page 1 of 1 • Built with Precision
-          // </div>
+          
         </div>
       </div>
     </footer>
