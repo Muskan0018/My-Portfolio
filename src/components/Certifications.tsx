@@ -16,42 +16,42 @@ const certifications = [
     title: "TCS iON Career Edge",
     issuer: "Tata Consultancy Services",
     date: "2026",
-    image: "src/assets/tcs-ion.jpg",
+    image: cert1,
     // link: "#"
   },
   {
     title: "Introduction to Generative AI",
     issuer: "Google Cloud / Simplilearn",
     date: "2025",
-    image: "src/assets/Introduction-to-GenerativeAI.jpg",
+    image: cert2,
     // link: "#"
   },
   {
     title: "Java Skill Up",
     issuer: "GeeksforGeeks",
     date: "2025",
-    image: "src/assets/Java-Skill-upgfg.jpg",
+    image: cert3,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "JavaScript Full Course",
     issuer: "GeeksforGeeks",
     date: "2024",
-    image: "src/assets/GFG-Js-Certificate.jpg",
+    image: cert4,
     // link: "https://geeksforgeeks.org/user/muskan_mishra07/"
   },
   {
     title: "CSS (Basic)",
     issuer: "HackerRank",
     date: "2025",
-    image: "src/assets/hackerrank_css_basic.jpg",
+    image: cert5,
     // link: "https://hackerrank.com/profile/muskanmishra0607"
   },  
   {
     title: "HTML Tutorial",
     issuer: "Great Learning",
     date: "2024",
-    image: "src/assets/HTML- GreatLearning.jpeg",
+    image: cert6,
     // link: "#"
   },
   
@@ -59,14 +59,14 @@ const certifications = [
     title: "C++ Training Course",
     issuer: "Udemy",
     date: "2024",
-    image: "src/assets/C++Udemy-certificate_page-.jpg",
+    image: cert7,
     // link: "#"
   },
   {
     title: "Introduction to Excel",
     issuer: "Coursera",
     date: "2023",
-    image: "src/assets/Coursera-introduction-of-Excel.jpeg",
+    image: cert8,
     // link: "#"
   }
 ];
