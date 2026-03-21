@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'motion/react';
-import { Github, ExternalLink, Code, Layout, Database } from 'lucide-react';
+import { Github, ExternalLink, Code, Layout, Database, Link } from 'lucide-react';
 import { li } from 'motion/react-client';
 import { link } from 'fs';
 
