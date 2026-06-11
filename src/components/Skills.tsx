@@ -4,19 +4,19 @@ import { Code2, Globe, Terminal, Cpu, Database } from 'lucide-react';
 
 const skillGroups = [
   {
-    title: "Programming Languages",
+    title: "Languages",
     icon: <Terminal className="text-emerald-500" />,
-    items: ["Core Java", "Spring Boot", "C", "C++", "Python (Basics)"]
+    items: ["Core Java", "JavaScript", "C", "C++", "HTML", "CSS", "Python (Basics)"]
   },
   {
-    title: "Web Technologies",
+    title: "Frameworks & Libraries",
     icon: <Globe className="text-emerald-500" />,
-    items: ["HTML", "CSS", "JavaScript", "React JS"]
+    items: ["Spring Boot", "React.js", "REST APIs"]
   },
   {
     title: "Database & Tools",
     icon: <Database className="text-emerald-500" />,
-    items: ["DBMS (Basics)", "MySQL", "Git", "VS Code", "Postman", "MS Office"]
+    items: ["DBMS (Basics)", "MySQL", "Git", "GitHub", "VS Code", "IntelliJ IDEA", "Postman", "MS Office"]
   },
   {
     title: "Other Skills",

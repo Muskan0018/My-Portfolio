@@ -122,7 +122,7 @@ export const ResumePreviewContent: React.FC = () => {
         <div className="space-y-4">
           <div>
             <div className="flex justify-between font-bold text-sm">
-              <span>Pre-Hire-Check (Java, React, GPT-4)</span>
+              <span>Pre-Hire-Check (Java,Spring Boot, React, Groq API)</span>
               <span>July 2025 - Currently</span>
             </div>
             <ul className="list-disc ml-5 text-xs mt-1 space-y-1">
@@ -161,13 +161,14 @@ export const ResumePreviewContent: React.FC = () => {
           <span>2023 - Currently</span>
         </div>
         <div className="text-sm">Chhatrapati Shahu Ji Maharaj University, Kanpur</div>
-        <div className="text-sm">Current CGPA: 8.20</div>
+        <div className="text-sm">Current CGPA: 8.25</div>
       </section>
 
       <section>
         <h2 className="text-lg font-bold uppercase border-b border-slate-300 mb-2">Certifications</h2>
         <div className="grid grid-cols-2 gap-x-4 text-xs">
           <ul className="list-disc ml-5 space-y-1">
+            <li>Cyber Job Simulation – Deloitte</li>
             <li>Java Skill Up - GeeksforGeeks</li>
             <li>Introduction to Generative AI - Google Cloud</li>
             <li>JavaScript Full Course - GeeksforGeeks</li>

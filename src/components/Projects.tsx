@@ -7,8 +7,8 @@ import { link } from 'fs';
 const projects = [
   {
     title: "Pre-Hire-Check",
-    description: "AI-powered reputation scanner that audits LinkedIn, GitHub, and resumes for unprofessional content using GPT-4. Features Google Auth, real-time API integrations, and smart rewrite suggestions.",
-    tech: ["Java Spring Boot", "React.js", "GPT-4 API", "Google Auth", "PostgreSQL"],
+    description: "AI-powered reputation scanner that audits LinkedIn, GitHub, and resumes for unprofessional content using Groq API. Features Google Auth, real-time API integrations, and smart rewrite suggestions.",
+    tech: ["Java Spring Boot", "React.js", "Groq API", "Google Auth", "PostgreSQL"],
     date: "July 2025 - Currently",
     icon: <Database className="text-emerald-500" />,
     github: "https://github.com/Muskan0018/Pre-Hire-Check",

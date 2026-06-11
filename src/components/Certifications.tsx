@@ -10,6 +10,7 @@ import cert5 from '../assets/hackerrank_css_basic.jpg';
 import cert6 from '../assets/HTML-GreatLearning.jpeg';
 import cert7 from '../assets/C++Udemy-certificate_page-.jpg';
 import cert8 from '../assets/Coursera-introduction-of-Excel.jpeg';
+import cert9 from '../assets/DellioteCybercompletion_certificate.jpg';
 
 const certifications = [
   {
@@ -17,6 +18,13 @@ const certifications = [
     issuer: "Tata Consultancy Services",
     date: "2026",
     image: cert1,
+    // link: "#"
+  },
+  {
+    title: "Cyber Job Simulation",
+    issuer: "Deloitte",
+    date: "2025",
+    image: cert9,
     // link: "#"
   },
   {

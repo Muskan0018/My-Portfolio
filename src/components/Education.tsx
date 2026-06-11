@@ -8,16 +8,25 @@ const educationData = [
     degree: "Bachelor of computer Applications",
     field: "Computer Programming",
     dates: "June 2023 - June 2026",
-    status: "Pursuing",
-    score: "8.20 CGPA",
+    status: "Graduated",
+    score: "8.25 CGPA",
     description: "Developing core skills in programming, web development, and databases. Maintaining a strong academic record with a focus on software engineering principles."
   },
   {
     institution: "B.P.M.G. Inter College",
     degree: "Intermediate (Class 12th)",
     dates: "April 2022 - March 2023",
+    status: "Completed",
     score: "71%",
     description: "Completed secondary education with a focus on foundational subjects and scientific principles."
+  },
+  {
+    institution: "B.P.M.G. Inter College",
+    degree: "High School (Class 10th)",
+    dates: "April 2020 - March 2021",
+    status: "Completed",
+    score: "84%",
+    description: "Achieved 84% in Class 10th while developing a solid academic foundation, discipline, and essential learning skills across various subjects."
   }
 ];
 
